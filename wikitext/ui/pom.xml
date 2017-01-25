@@ -42,7 +42,7 @@
         </repository>
         <repository>
             <id>wikitext-local</id>
-            <url>${project.baseUri}../../core/repository/target/repository/</url>
+            <url>${project.baseUri}../../repository/target/repository/</url>
             <layout>p2</layout>
         </repository>
         <repository>

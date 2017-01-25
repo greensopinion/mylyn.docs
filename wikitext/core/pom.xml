@@ -31,8 +31,6 @@
         <module>org.eclipse.mylyn.wikitext.mediawiki.core.ant</module>
         <module>org.eclipse.mylyn.wikitext.tracwiki.core</module>
         <module>org.eclipse.mylyn.wikitext.twiki.core</module>
-
-        <module>repository</module>
     </modules>
 
     <build>
